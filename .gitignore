@@ -1,0 +1,5 @@
+#folder files
+logs/
+
+#txt-liles
+docs/*.txt
